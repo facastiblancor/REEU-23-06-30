@@ -10,8 +10,8 @@ The ISOBlue edge-computer used in the data collection session of ASM345.
 
 <img src="img/jd-320d.jpg" width="512" height="340">
 
-A John Deere (JD) 320D Skid-steer machine.
+A John Deere (JD) 320D Skid-steer machine used as unit under test (UUT) during the class.
 
 All data wrangling and processing will be done in Python, using Jupyter as coding environment. 
-Please download the notebook (pandasCANExerciseBook.ipynb) and refer to the information on it to get started.
+Please download the notebook (https://github.com/facastiblancor/REEU-23-06-30/blob/main/pandasCANExerciseBook.ipynb) and refer to the information on it to get started.
 
